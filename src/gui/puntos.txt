@@ -1,0 +1,10 @@
+JUGADOR 1;1100
+German;700
+RULO;30
+Quique;50
+Alfred;550
+Alisan;1000
+Ragnar;200
+Pipo;300
+Maria;350
+Ceci;800
